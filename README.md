@@ -1,7 +1,8 @@
-<h2 align="left">Hi 👋! My name is Prakash and I'm a MERN Stack developer</h2>
+<h2 align="center">👋 Hi, I'm Prakash Parmar — A MERN Stack Developer 🚀</h2>
+<p>I specialize in building robust, scalable web applications using modern technologies. Passionate about coding, learning, and solving real-world problems.</p>
 
 ###
-
+<h3>🛠️ Tech Stack</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -67,7 +68,7 @@
 </div>
 
 ###
-
+<h3>🌐 Connect with Me</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/prakashparmar1503/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -83,4 +84,12 @@
   </a>
 </div>
 
+<h3>📈 Currently Learning</h3>
+<ul>
+  <li>Advanced Testing with Jest and Cypress</li>
+  <li>DSA with Java</li>
+  <li>Designing with Figma</li>
+</ul>
+
+<h3>🚀 "Turning Ideas into Reality, One Line of Code at a Time."</h3>
 ###

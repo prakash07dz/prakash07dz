@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Prakash Parmar — A MERN Stack Developer 🚀</h2>
 <p>I specialize in building robust, scalable web applications using modern technologies. Passionate about coding, learning, and solving real-world problems.</p>
-<p>A quick overview of my work <a href="https://prakash2004portfolio.netlify.app/">My Portfolio </a> </p>
+<p>A quick overview of my work <a href="https://prakash2004portfolio.netlify.app/" target="_blank">My Portfolio </a> </p>
 
 ###
 <h3>🛠️ Tech Stack</h3>
